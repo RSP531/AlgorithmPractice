@@ -7,11 +7,12 @@ var findComplement = function(num) {
   console.log(newNum);
   //change 0 and 1s
   for (let i = 0; i < newNum.length; i++) {
-    if (newNum[i] === "1") {
-      newNum[i] = "0";
-    } else {
-      newNum[i] = "1";
-    }
+    // if (newNum[i] === "1") {
+    //   newNum[i] = "0";
+    // } else {
+    //   newNum[i] = "1";
+    // }
+    newNum[i] = newNum[i] === "1" ? "0" : "1";
   }
 
   return parseInt(newNum.join(""), 2);
