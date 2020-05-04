@@ -93,7 +93,7 @@ FROM tasks
 RIGHT JOIN reports
 ON tasks.id = reports.task_id
 GROUP BY reports.task_id
-ORDER BY tasks.id;
+ORDER BY tasks.id; 
 
 --WORKS!!
 SELECT tasks.id, tasks.name AS task_name, AVG(score) AS difficulty
