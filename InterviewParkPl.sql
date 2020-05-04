@@ -83,6 +83,7 @@ INSERT INTO reports (id, task_id, candidate, score) VALUES (12,6, 'Tanner Sears'
 -- 142     Median       Hard
 -- 300     Tricoloring  Medium
 
+--works!
 SELECT tasks.id, tasks.name AS task_name,
   CASE WHEN AVG(reports.score) <= 20 THEN 'Hard'
   WHEN AVG(reports.score) > 20 AND AVG(reports.score) <= 60 THEN 'Medium'
