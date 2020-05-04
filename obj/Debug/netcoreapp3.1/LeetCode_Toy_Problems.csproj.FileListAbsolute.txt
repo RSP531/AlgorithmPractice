@@ -1,0 +1,12 @@
+/Users/rob/Documents/LeetCode_Toy_Problems/bin/Debug/netcoreapp3.1/LeetCode_Toy_Problems.deps.json
+/Users/rob/Documents/LeetCode_Toy_Problems/bin/Debug/netcoreapp3.1/LeetCode_Toy_Problems.runtimeconfig.json
+/Users/rob/Documents/LeetCode_Toy_Problems/bin/Debug/netcoreapp3.1/LeetCode_Toy_Problems.runtimeconfig.dev.json
+/Users/rob/Documents/LeetCode_Toy_Problems/bin/Debug/netcoreapp3.1/LeetCode_Toy_Problems.dll
+/Users/rob/Documents/LeetCode_Toy_Problems/bin/Debug/netcoreapp3.1/LeetCode_Toy_Problems.pdb
+/Users/rob/Documents/LeetCode_Toy_Problems/obj/Debug/netcoreapp3.1/LeetCode_Toy_Problems.csprojAssemblyReference.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/obj/Debug/netcoreapp3.1/LeetCode_Toy_Problems.csproj.CoreCompileInputs.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/obj/Debug/netcoreapp3.1/LeetCode_Toy_Problems.AssemblyInfoInputs.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/obj/Debug/netcoreapp3.1/LeetCode_Toy_Problems.AssemblyInfo.cs
+/Users/rob/Documents/LeetCode_Toy_Problems/obj/Debug/netcoreapp3.1/LeetCode_Toy_Problems.dll
+/Users/rob/Documents/LeetCode_Toy_Problems/obj/Debug/netcoreapp3.1/LeetCode_Toy_Problems.pdb
+/Users/rob/Documents/LeetCode_Toy_Problems/obj/Debug/netcoreapp3.1/LeetCode_Toy_Problems.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/bin/Debug/netcoreapp3.1/C_Sharp.deps.json
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/bin/Debug/netcoreapp3.1/C_Sharp.runtimeconfig.json
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/bin/Debug/netcoreapp3.1/C_Sharp.runtimeconfig.dev.json
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/bin/Debug/netcoreapp3.1/C_Sharp.dll
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/bin/Debug/netcoreapp3.1/C_Sharp.pdb
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/obj/Debug/netcoreapp3.1/C_Sharp.csprojAssemblyReference.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/obj/Debug/netcoreapp3.1/C_Sharp.csproj.CoreCompileInputs.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/obj/Debug/netcoreapp3.1/C_Sharp.AssemblyInfoInputs.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/obj/Debug/netcoreapp3.1/C_Sharp.AssemblyInfo.cs
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/obj/Debug/netcoreapp3.1/C_Sharp.dll
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/obj/Debug/netcoreapp3.1/C_Sharp.pdb
+/Users/rob/Documents/LeetCode_Toy_Problems/C_Sharp/obj/Debug/netcoreapp3.1/C_Sharp.genruntimeconfig.cache

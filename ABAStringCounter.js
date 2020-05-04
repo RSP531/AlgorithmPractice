@@ -66,3 +66,42 @@ let abCounter = abString => {
 // console.log(abCounter('BAAABAB')) // return 2
 // console.log(abCounter('BBABAA')) // return 3
 console.log(abCounter("AABBB")); //return 0
+
+//next I must reformat to C#
+
+//public int solution(string abString){
+//   int counter = 0;
+//   int countA = 0;
+//   int countB = 0;
+
+//   char[] sArr = abString.ToCharArray();
+
+//   for(int i=0; i<sArr.Length;i++){
+//     if(sArr[i].Equals('A')) {
+//       countA++;
+//     }
+//     if(sArr[i].Equals('B')) {
+//       countB++;
+//     }
+//   }
+
+//   for (int i = 0; i < countA; i++) {
+//     if (sArr[i].Equals('B')) {
+//       abString.Remove(i,1);
+//       i--;
+//       countB--;
+//       counter++;
+//     }
+//   }
+
+//   for (int i = countA; i < abString.Length; i++) {
+//     if (sArr[i].Equals('A')) {
+//       abString.Remove(i,1);
+//       i--;
+//       countA--;
+//       counter++;
+//     }
+//   }
+
+//     return counter;
+// };

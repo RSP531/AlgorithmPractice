@@ -1,0 +1,12 @@
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/bin/Debug/netcoreapp3.1/new_folder.deps.json
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/bin/Debug/netcoreapp3.1/new_folder.runtimeconfig.json
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/bin/Debug/netcoreapp3.1/new_folder.runtimeconfig.dev.json
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/bin/Debug/netcoreapp3.1/new_folder.dll
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/bin/Debug/netcoreapp3.1/new_folder.pdb
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/obj/Debug/netcoreapp3.1/new_folder.csprojAssemblyReference.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/obj/Debug/netcoreapp3.1/new_folder.csproj.CoreCompileInputs.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/obj/Debug/netcoreapp3.1/new_folder.AssemblyInfoInputs.cache
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/obj/Debug/netcoreapp3.1/new_folder.AssemblyInfo.cs
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/obj/Debug/netcoreapp3.1/new_folder.dll
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/obj/Debug/netcoreapp3.1/new_folder.pdb
+/Users/rob/Documents/LeetCode_Toy_Problems/new_folder/obj/Debug/netcoreapp3.1/new_folder.genruntimeconfig.cache
