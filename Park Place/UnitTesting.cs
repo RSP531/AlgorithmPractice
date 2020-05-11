@@ -26,6 +26,7 @@ namespace Codility.Taks.BasketUnitTests.Solutions
       Assert.Equal(expected, actual);
       Assert.NotEqual(expected, actual);
     }
+    
     /* Sample Test */
     [CustomFact]
     public void ShoppingCartShouldBeImplemented()
