@@ -104,13 +104,13 @@ GROUP BY reports.task_id
 ORDER BY tasks.id;
 
 --messing around;
-select tasks.id, tasks.name as task_name,
-case when reports.score <= 30 then 'hi rob'
-when reports.score > 50 then 'num 2'
-else 'baddd'
-end as difficulty
-from tasks
-right join reports
-on tasks.id = reports.task_id
-group by reports.task_id
-order by tasks.id;
+SELECT tasks.id, tasks.name AS task_name,
+  CASE WHEN AVG(reports.score) <= 20 THEN 'Hard'
+  WHEN AVG(reports.score) > 20 AND AVG(reports.score) <= 60 THEN 'Medium'
+  ELSE 'Easy'
+  END AS difficulty
+FROM tasks
+RIGHT JOIN reports
+ON tasks.id = reports.task_id;
+GROUP BY reports.task_id
+ORDER BY task_name; 
