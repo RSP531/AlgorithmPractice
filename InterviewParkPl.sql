@@ -83,7 +83,7 @@ INSERT INTO reports (id, task_id, candidate, score) VALUES (12,6, 'Tanner Sears'
 -- 142     Median       Hard
 -- 300     Tricoloring  Medium
 
---works!
+--works! SOLVED
 SELECT tasks.id, tasks.name AS task_name,
   CASE WHEN AVG(reports.score) <= 20 THEN 'Hard'
   WHEN AVG(reports.score) > 20 AND AVG(reports.score) <= 60 THEN 'Medium'
@@ -102,3 +102,15 @@ RIGHT JOIN reports
 ON tasks.id = reports.task_id
 GROUP BY reports.task_id
 ORDER BY tasks.id;
+
+--messing around;
+select tasks.id, tasks.name as task_name,
+case when reports.score <= 30 then 'hi rob'
+when reports.score > 50 then 'num 2'
+else 'baddd'
+end as difficulty
+from tasks
+right join reports
+on tasks.id = reports.task_id
+group by reports.task_id
+order by tasks.id;
