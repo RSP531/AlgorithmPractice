@@ -41,11 +41,11 @@ namespace BankTests
                 // Assert
                 StringAssert.Contains(e.Message, BankAccount.DebitAmountExceedsBalanceMessage);
             }
-            
+
             Assert.Fail("The expected exception was not thrown.");
 
             // Act and assert
-            //Assert.ThrowsException<System.ArgumentOutOfRangeException>(() => account.Debit(debitAmount));
+            Assert.ThrowsException<System.ArgumentOutOfRangeException>(() => account.Debit(debitAmount));
         }
     }
 }
