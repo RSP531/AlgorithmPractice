@@ -1,8 +1,13 @@
 //completed and working solution
 
-solution("ABBBCCDDCCC", 3); //returns 5 ->A3B4C
-solution("AAAAAAAAAAABXXAAAAAAAAAA", 3); //returns 10 ->21A
-solution("AAAAAAAAAAABXXAAAAAAAAAA", 3); //returns 10 ->21A
+// solution("ABBBCCDDCCC", 3); //returns 5 ->A3B4C
+// solution("AAAAAAAAAAABXXAAAAAAAAAA", 3); //returns 10 ->21A
+// solution("AAAAAAAAAAABXXAAAAAAAAAA", 3); //returns 10 ->21A
+// console.log(solution("ABBBCCDDCCC", 3));
+// returns 5
+// removes DDC
+// left with ABBBCCCC
+// A3B4C = length of 5
 
 function solution(S, K) {
   // write your code in JavaScript (Node.js 8.9.4)
@@ -22,12 +27,6 @@ function solution(S, K) {
 
   return lowestCount;
 }
-
-console.log(solution("ABBBCCDDCCC", 3));
-// returns 5
-// removes DDC
-// left with ABBBCCCC
-// A3B4C = length of 5
 
 function compress(S) {
   // first solve how to compress the string
