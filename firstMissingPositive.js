@@ -34,3 +34,14 @@ var firstMissingPositive = function(nums) {
     }
   }
 };
+
+// Runtime: 56 ms, faster than 77.78% of JavaScript online submissions for First Missing Positive.
+// Memory Usage: 33.6 MB, less than 100.00% of JavaScript online submissions for First Missing Positive.
+
+var firstMissingPositive = function(nums) {
+  for (let i = 1; true; i++) {
+    if (!nums.includes(i)) {
+      return i;
+    }
+  }
+};
