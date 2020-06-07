@@ -32,8 +32,8 @@ function solution(S, X, Y) {
   return arr.length;
 }
 
-console.log(solution("ABDCA", [2, -1, -4, -3, 3], [2, -2, 4, 1, -3])); //returns 3
+console.log(solution("ABDCA", [2, -1, -4, -3, 3], [2, -2, 4, 1, -3])); // returns 3
 
-console.log(solution("ABB", [1, -2, -2], [1, -2, 2])); //returns 1
+console.log(solution("ABB", [1, -2, -2], [1, -2, 2])); // returns 1
 
-console.log(solution("CCD", [1, -1, 2], [1, -1, -2])); //returns 0
+console.log(solution("CCD", [1, -1, 2], [1, -1, -2])); // returns 0
