@@ -20,4 +20,4 @@ function findWord(inputArr) {
 
 console.log(findWord(["P>E", "E>R", "R>U"])); // PERU
 console.log(findWord(["I>N", "A>I", "P>A", "S>P"])); // SPAIN
-console.log(findWord(["A>I", "S>P", "P>A", "I>N"])); //
+console.log(findWord(["A>I", "S>P", "P>A", "I>N"])); // must also equal spain
